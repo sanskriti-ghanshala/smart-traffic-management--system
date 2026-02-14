@@ -27,10 +27,10 @@ YOLOv8 (Ultralytics)
 Threading
 
 ▶️ How to Run
-1️⃣ Install dependencies
+1️⃣ Install dependencies                                                                                                                                                                                              
 pip install -r requirements.txt
 
-2️⃣ Run the project
+2️⃣ Run the project                                                                                                                                                                                                  
 python hello.py
 
 
