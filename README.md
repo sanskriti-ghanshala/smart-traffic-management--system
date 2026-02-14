@@ -9,6 +9,7 @@ This project simulates a 4-way traffic intersection using Python and Pygame. It 
 The goal is to reduce congestion and improve emergency response time using AI-driven traffic control.
 
 ⚙️ Features
+
 🚗 Real-time traffic simulation
 🧠 AI-based vehicle detection using YOLOv8
 🚑 Automatic ambulance priority handling
@@ -26,8 +27,7 @@ NumPy
 YOLOv8 (Ultralytics)
 Threading
 
-▶️ How to Run
-1️⃣ Install dependencies                                                                                                                                                                                              
+▶️ How to Run                                                                                                                                                                                            
 pip install -r requirements.txt
 
 2️⃣ Run the project                                                                                                                                                                                                  
