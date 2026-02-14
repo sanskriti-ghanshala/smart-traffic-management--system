@@ -8,7 +8,8 @@ Smart Traffic Management System (AI-Based)
 This project simulates a 4-way traffic intersection using Python and Pygame. It uses an AI vehicle detection model (YOLOv8) to detect vehicles from camera input and adjust signal timings automatically. If an ambulance is detected, the system immediately gives it signal priority.
 The goal is to reduce congestion and improve emergency response time using AI-driven traffic control.
 
-🎯Objective
+🎯Objective 
+
 The main objective of this project is to design an intelligent traffic control mechanism that improves traffic flow and reduces waiting time at intersections. Traditional traffic signals use fixed timing, which is inefficient during uneven traffic conditions. This project demonstrates how AI-based detection and dynamic timing logic can make traffic systems smarter and more responsive, especially for emergency vehicles.
 
 🎯Working Principle
@@ -30,14 +31,15 @@ This system can be used as a base model for smart city traffic control, AI-drive
 
 🛠️ Tech Stack
 Python
+
 Pygame
+
 OpenCV
+
 NumPy
+
 YOLOv8 (Ultralytics)
+
 Threading
 
 
-
-
-AI-based urban planning
-Traffic congestion reduction research
